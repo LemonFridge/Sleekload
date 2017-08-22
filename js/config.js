@@ -9,7 +9,7 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = "images/logo.png";
+var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
@@ -77,7 +77,7 @@ var l_bgDarkening = 50;
 
 /*Music player
 'true' or 'false' to enable music in the background*/
-var l_music = true;
+var l_music = false;
 
 /*Display actual song's name?*/
 var l_musicDisplay = true;
