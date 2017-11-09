@@ -13,7 +13,7 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "DeltaGaming";
+var l_serverName = "Nova Networks";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -50,9 +50,7 @@ var l_background = "backgrounds/videos/glimmering.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/plaatje1.jpg",
-	"backgrounds/images/plaatje2.jpg",
-	"backgrounds/images/plaatje3.jpg"
+	"backgrounds/images/police.jpeg"
 ];
 
 /*Random background images order?*/
