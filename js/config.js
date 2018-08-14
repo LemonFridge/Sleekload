@@ -104,7 +104,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 "Enjoy the server",
 "Thanks for joining us!",
-"Did you know these backgrounds and songs are from Touhou?"
+"Use @ to contact an admin"
 ];
 
 /*Random message order?*/
